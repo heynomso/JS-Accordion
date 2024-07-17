@@ -1,0 +1,1 @@
+A simple FAQ webpage with accordion(drop-down) functionality.
